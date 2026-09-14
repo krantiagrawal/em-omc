@@ -1,0 +1,35 @@
+{
+    "workshoptitle": "Optimize Performance of a Multicloud Database Fleet",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Assess Fleet Health and Select a Database",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../fleet-health/fleet-health.md"
+        },
+        {
+            "title": "Lab 2: Diagnose Database and SQL Performance",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../performance-analysis/performance-analysis.md"
+        },
+        {
+            "title": "Lab 3: Correlate Capacity, Forecasts, and Optional Modules",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../capacity-planning/capacity-planning.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Template to link to Need Help lab at the end of workshop.",
+            "filename": "https://raw.githubusercontent.com/oracle-livelabs/common/main/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
