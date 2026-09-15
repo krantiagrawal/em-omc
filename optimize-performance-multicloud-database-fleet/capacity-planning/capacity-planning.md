@@ -81,12 +81,26 @@ Exadata Insights extends capacity planning to Exadata systems, hosts, VM cluster
 
 Use SQL Explorer to create a focused fleet visualization. Do not invent a query or a result when the environment does not provide a validated example.
 
+The screenshots below illustrate the UI flow. Use the validated query and current data supplied for the event environment.
+
 1. Open **SQL Insights → SQL Explorer**.
+    ![SQL Explorer](images/sql-explorer-main.png)
 2. In basic mode, run a validated workshop query supplied by the event instructor or course owner that aggregates CPU time or elapsed time by database and SQL ID.
+    ![SQL query](images/sql-query.png)
 3. Sort by descending resource use and limit the result set.
+    ![SQL query results](images/sql-query-table.png)
 4. Display the result as a stacked bar chart.
+    ![SQL stacked-bar visualization](images/sql-query-visual.png)
 5. Open **Advanced** mode and inspect available views, columns, and sample queries.
+    ![SQL Explorer Advanced mode](images/sql-explorer-advanced.png)
+    ![SQL Explorer views and queries](images/sql-explorer-view-queries.png)
+    ![SQL Explorer available views](images/view-queries.png)
+    ![SQL Explorer column details](images/sql-column-details.png)
 6. Modify one filter or grouping and rerun the visualization.
+    ![Clear SQL query](images/sql-explorer-clear.png)
+    ![Updated SQL query](images/sql-query1.png)
+    ![Updated SQL query results](images/sql-query-table1.png)
+    ![Updated SQL visualization](images/sql-query-visual1.png)
 
 **Module output:** Produce one fleet SQL visualization and explain the query dimensions used.
 
@@ -94,10 +108,18 @@ Use SQL Explorer to create a focused fleet visualization. Do not invent a query 
 
 Use ADDM Spotlight to prioritize recurring or high-impact findings over time.
 
+The screenshots illustrate the workflow; database names and values may differ in Demo Mode.
+
 1. Open **Database Insights → ADDM Spotlight**.
+    ![ADDM Spotlight navigation](images/addm-spot01.png)
 2. Review the database listing, findings count, maximum overall impact, and most frequent category.
+    ![ADDM Spotlight database listing](images/addm-spot02.png)
 3. Filter by time range and search for a populated database.
+    ![ADDM Spotlight filtered database listing](images/addm-spot03.png)
 4. Review the summary timeline, **Findings**, **Recommendations**, and **Database Parameters**.
+    ![ADDM Spotlight findings](images/addm-spot04.png)
+    ![ADDM Spotlight recommendations](images/addm-reco.png)
+    ![ADDM Spotlight database parameters](images/addm-dbpars.png)
 5. Compare one impactful finding with the Database Management or Capacity Planning evidence.
 
 **Module output:** Record the highest-impact finding and the recommended next action.
@@ -106,12 +128,24 @@ Use ADDM Spotlight to prioritize recurring or high-impact findings over time.
 
 Use cost and usage views to identify a showback, chargeback, or resource-optimization opportunity.
 
+The screenshots illustrate the controls; available groupings and values may differ in the current environment.
+
 1. Open **Exadata Insights → Exadata Cost Management**.
+    ![Exadata Cost Management](images/opsi-chargeback-main.png)
 2. Select a populated Exadata system.
+    ![Exadata Cost Management details](images/opsi-chargeback-details.png)
 3. Review actual cost, attributed cost, VM cluster CPU utilization, and the database table.
 4. Set **Primary grouping** to **CostCenter** and **Secondary grouping** to **Environment**, when available.
+    ![Primary cost grouping](images/primary-grouping.png)
+    ![Cost grouping selector](images/opsi-chargeback-grouping.png)
+    ![Secondary cost grouping](images/opsi-chargeback-grouping2.png)
 5. Select a chart segment to filter the database table to one cost center or environment.
+    ![Cost-center selection](images/cost-center-01.png)
 6. Review usage and charge trends, then switch to table data.
+    ![Usage and charge trends](images/trend-charts.png)
+    ![VM cluster trend selection](images/deselect-test-vmc1.png)
+    ![Show table data](images/select-show-table.png)
+    ![Cost table data](images/table.png)
 7. Inspect how OCI standard or free-form tags support cost-center or line-of-business filtering.
 
 **Module output:** Identify a cost center or environment with a resource-usage or chargeback optimization opportunity.
@@ -120,12 +154,22 @@ Use cost and usage views to identify a showback, chargeback, or resource-optimiz
 
 Use a saved dashboard to shorten the path from a fleet signal to database and SQL analysis.
 
+The screenshots illustrate the dashboard flow; dashboard names and insights may vary by environment.
+
 1. Open **Dashboards** and review the out-of-the-box dashboard list.
+    ![Ops Insights dashboards](images/opsi-dash-main.png)
+    ![Dashboard navigation](images/opsi-left-dash.png)
 2. Open **(Demo) SQL Insights – Fleet Analysis**, when available.
+    ![SQL Insights Fleet Analysis dashboard](images/opsi-demo-insights-fleet-analysis.png)
 3. Select the **Degrading SQL** insight to list affected databases.
+    ![Degrading SQL insight](images/opsi-degrading-sql.png)
+    ![Databases with degraded SQL](images/opsi-db-with-degraded-sql.png)
 4. Open a database analysis view.
+    ![Database analysis](images/opsi-db-analysis.png)
 5. Select **Degraded plan changes**, when available.
+    ![Degraded plan changes](images/opsi-degraded-plan.png)
 6. Open a SQL analysis view for one SQL ID.
+    ![SQL ID analysis](images/opsi-sql-id-analysis.png)
 
 **Module output:** Explain how a saved dashboard shortens the path from a fleet signal to SQL investigation.
 
