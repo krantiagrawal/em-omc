@@ -1,6 +1,6 @@
 # LiveLabs Workshop Validation – optimize-performance-multicloud-database-fleet
 
-Generated on 2026-09-14T06:50:38.020553+00:00
+Generated on 2026-09-18T06:41:26.149435+00:00
 
 ## Structure Check
 - ✅ Required folders and workshop variants present.
@@ -18,30 +18,81 @@ Generated on 2026-09-14T06:50:38.020553+00:00
 ## Markdown File Ratings
 ### TRACEABILITY.md
 - ✅ LiveLabs formatting checks passed.
-- ✍️ Lanham score: 2/5
-  - 4 sentence(s) exceed 20 words; tighten wording.
-  - Passive voice detected in 7 instance(s).
+- ✍️ Lanham score: 1/5
+  - 8 sentence(s) exceed 20 words; tighten wording.
+  - Passive voice detected in 13 instance(s).
+  - Contractions found; expand them per Lanham rules.
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### WORKSHOP-DETAILS.md
 - ✅ LiveLabs formatting checks passed.
-- ✍️ Lanham score: 2/5
-  - 7 sentence(s) exceed 20 words; tighten wording.
-  - Passive voice detected in 4 instance(s).
+- ✍️ Lanham score: 3/5
+  - 3 sentence(s) exceed 20 words; tighten wording.
   - Heavy nominalization usage; prefer vivid verbs.
 
-### capacity-planning/capacity-planning.md
-- ✅ LiveLabs formatting checks passed.
+### analyze-sql-performance-across-fleet/analyze-sql-performance-across-fleet.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
 - ✍️ Lanham score: 2/5
-  - 10 sentence(s) exceed 20 words; tighten wording.
-  - Passive voice detected in 3 instance(s).
+  - 6 sentence(s) exceed 20 words; tighten wording.
+  - Passive voice detected in 1 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### fleet-health/fleet-health.md
-- ✅ LiveLabs formatting checks passed.
+### enable-demo-mode/enable-demo-mode.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 4/5
+  - 1 sentence(s) exceed 20 words; tighten wording.
+
+### enable-ops-insights-demo-mode/enable-ops-insights-demo-mode.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 5/5
+
+### explore-awr-explorer-addm-spotlight/explore-awr-explorer-addm-spotlight.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 3/5
+  - 6 sentence(s) exceed 20 words; tighten wording.
+  - Heavy nominalization usage; prefer vivid verbs.
+
+### explore-dbm-fleet-summary/explore-dbm-fleet-summary.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
 - ✍️ Lanham score: 2/5
   - 4 sentence(s) exceed 20 words; tighten wording.
+  - Passive voice detected in 2 instance(s).
+  - Heavy nominalization usage; prefer vivid verbs.
+
+### explore-optional-service-capabilities/explore-optional-service-capabilities.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 2/5
+  - 9 sentence(s) exceed 20 words; tighten wording.
+  - Passive voice detected in 2 instance(s).
+  - Heavy nominalization usage; prefer vivid verbs.
+
+### explore-performance-hub-sql-monitoring/explore-performance-hub-sql-monitoring.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 2/5
+  - 3 sentence(s) exceed 20 words; tighten wording.
   - Passive voice detected in 1 instance(s).
+  - Heavy nominalization usage; prefer vivid verbs.
+
+### forecast-database-capacity/forecast-database-capacity.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
+- ✍️ Lanham score: 3/5
+  - 2 sentence(s) exceed 20 words; tighten wording.
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### introduction/introduction.md
@@ -51,9 +102,11 @@ Generated on 2026-09-14T06:50:38.020553+00:00
   - Passive voice detected in 1 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### performance-analysis/performance-analysis.md
-- ✅ LiveLabs formatting checks passed.
+### investigate-managed-database/investigate-managed-database.md
+- ❌ Formatting issues:
+  - Missing '## Acknowledgements' section.
+  - Missing 'Estimated Time:' line.
 - ✍️ Lanham score: 2/5
-  - 9 sentence(s) exceed 20 words; tighten wording.
-  - Passive voice detected in 2 instance(s).
+  - 3 sentence(s) exceed 20 words; tighten wording.
+  - Passive voice detected in 1 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.

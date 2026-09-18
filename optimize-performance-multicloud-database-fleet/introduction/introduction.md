@@ -1,40 +1,29 @@
-# Optimize Performance of a Multicloud Database Fleet
+# Optimize Performance of Multicloud Database Fleet Using OCI Database Management
 
 ## Introduction
 
-Use OCI Database Management and Ops Insights Demo Mode to move from a fleet-level signal to a defensible performance and capacity decision. You will review curated data, investigate one managed database, compare current and historical evidence, and correlate the result across the database fleet.
+In this lab, you will use OCI Database Management and Ops Insights services to assess overall fleet health, investigate database performance, and leverage new tools to analyze deployment health.
 
-The workshop does not require you to provision a database, generate a workload, or modify customer data. Names, counts, charts, and findings can change as the curated Demo Mode data changes. Record only values that you can see in the current environment.
+Database Management provides the operational microscope including current database health, workload, sessions, SQL execution, and performance diagnosis. Ops Insights provides the fleet and time-series lens including cross-database SQL patterns, historical analysis, forecasting, resource planning, cost context, and reusable dashboards.
 
-### Prerequisites
+You will begin with a managed database signal, investigate the current workload, add historical context, correlate the finding across the database fleet, and finish by exploring new feature capabilities. The lab uses curated Demo Mode data for both services. You will not provision a database, generate a workload, or modify customer data.
 
-- Access to the OCI Console and a compartment where Database Management and Ops Insights Demo Mode are available.
-- Permission to complete any policy workflow shown while enabling Demo Mode.
-- A modern web browser.
+**Estimated time:** 90 minutes total. The core path takes approximately 60 minutes, optimal feature modules are available to explore as well.
 
 ### Objectives
 
-- Enable Database Management and Ops Insights Demo Mode.
-- Select a database with a visible health or performance signal.
-- Use database-level and fleet-level views to classify the issue.
-- Compare current workload evidence with historical findings and forecasts.
-- Recommend tuning, monitoring, reclamation, resizing, autoscaling, or further investigation.
+In this lab, you will:
 
-Estimated Workshop Time: 90 minutes, including optional feature exploration
+- Log in to the OCI Console and enable Database Management and Ops Insights Demo Mode.
+- Explore DBM Fleet Summary to review inventory, monitoring status, resource usage, alarms, member metrics, and performance hotspots.
+- Drill into a managed database and review availability, activity, I/O, memory, storage, Performance Hub, SQL Monitoring, AWR Explorer, and ADDM Spotlight.
+- Use Ops Insights SQL Insights to investigate degradation, changing plans, inefficiency, and resource-consuming SQL across the fleet.
+- Use Ops Insights Capacity Planning to compare allocation, utilization, growth, unused capacity, and forecast demand.
+- Use optional capabilities including Exadata capacity planning, SQL Explorer, AWR Hub, ADDM Spotlight, Exadata Cost Management, or Dashboards.
+- Recommend tuning, monitoring, reclamation, resizing, autoscaling, or further investigation based on current and historical evidence.
 
-## Workshop Flow
-
-1. **Lab 1: Assess Fleet Health and Select a Database** - Enable Demo Mode and identify a populated investigation target.
-2. **Lab 2: Diagnose Database and SQL Performance** - Use Database Management, AWR, ADDM, and SQL Insights to classify the signal.
-3. **Lab 3: Correlate Capacity, Forecasts, and Optional Modules** - Use Capacity Planning to choose a response and explore one optional module.
-
-## Learn More
-
-- [ADDM Spotlight: Strategic advice to optimize Oracle Database performance](https://blogs.oracle.com/database/addm-spotlight-strategic-advice-optimize-oracle-dbms)
-- [Operations Insights LiveLabs examples](https://github.com/oracle-livelabs/em-omc/tree/0609acc592306be0c079562909836beca731fa23/operations-insights)
+<!-- Estimated Workshop Time: 90 minutes total. -->
 
 ## Acknowledgements
 
-* **Source approval** - The workshop author confirmed approval to use the provided source material for this build. Built with permission from the author(s).
-* **Author** - Workshop owner to be assigned
-* **Last Updated By/Date** - 2026-09-14
+<!-- The source content is preserved in the full tutorial that follows this Introduction page. -->

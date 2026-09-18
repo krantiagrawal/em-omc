@@ -1,5 +1,5 @@
 {
-    "workshoptitle": "Optimize Performance of a Multicloud Database Fleet",
+    "workshoptitle": "Optimize Performance of Multicloud Database Fleet Using OCI Database Management",
     "help": "livelabs-help-db_us@oracle.com",
     "tutorials": [
         {
@@ -9,22 +9,58 @@
             "filename": "../../introduction/introduction.md"
         },
         {
-            "title": "Lab 1: Assess Fleet Health and Select a Database",
+            "title": "Task 1: Enable Demo Mode",
             "description": "",
             "type": "livelabs",
-            "filename": "../../fleet-health/fleet-health.md"
+            "filename": "../../enable-demo-mode/enable-demo-mode.md"
         },
         {
-            "title": "Lab 2: Diagnose Database and SQL Performance",
+            "title": "Task 2: Explore DBM Fleet Summary",
             "description": "",
             "type": "livelabs",
-            "filename": "../../performance-analysis/performance-analysis.md"
+            "filename": "../../explore-dbm-fleet-summary/explore-dbm-fleet-summary.md"
         },
         {
-            "title": "Lab 3: Correlate Capacity, Forecasts, and Optional Modules",
+            "title": "Task 3: Investigate the Managed Database",
             "description": "",
             "type": "livelabs",
-            "filename": "../../capacity-planning/capacity-planning.md"
+            "filename": "../../investigate-managed-database/investigate-managed-database.md"
+        },
+        {
+            "title": "Task 4: Explore Performance Hub and SQL Monitoring",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../explore-performance-hub-sql-monitoring/explore-performance-hub-sql-monitoring.md"
+        },
+        {
+            "title": "Task 5: Explore AWR Explorer and ADDM Spotlight",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../explore-awr-explorer-addm-spotlight/explore-awr-explorer-addm-spotlight.md"
+        },
+        {
+            "title": "Task 6: Enable Ops Insights Demo Mode",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../enable-ops-insights-demo-mode/enable-ops-insights-demo-mode.md"
+        },
+        {
+            "title": "Task 7: Analyze SQL Performance Across the Fleet",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../analyze-sql-performance-across-fleet/analyze-sql-performance-across-fleet.md"
+        },
+        {
+            "title": "Task 8: Forecast Database Capacity",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../forecast-database-capacity/forecast-database-capacity.md"
+        },
+        {
+            "title": "Task 9: Explore an Optional Service Capabilities",
+            "description": "",
+            "type": "livelabs",
+            "filename": "../../explore-optional-service-capabilities/explore-optional-service-capabilities.md"
         },
         {
             "title": "Need Help?",
