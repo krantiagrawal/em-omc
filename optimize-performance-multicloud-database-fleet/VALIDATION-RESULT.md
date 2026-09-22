@@ -1,6 +1,6 @@
 # LiveLabs Workshop Validation – optimize-performance-multicloud-database-fleet
 
-Generated on 2026-09-22T16:13:03.616216+00:00
+Generated on 2026-09-22T16:18:50.601360+00:00
 
 ## Structure Check
 - ✅ Required folders and workshop variants present.
@@ -32,16 +32,14 @@ Generated on 2026-09-22T16:13:03.616216+00:00
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### dbm-fleet-summary/dbm-fleet-summary.md
-- ❌ Formatting issues:
-  - Missing 'Estimated Time:' line.
+- ✅ LiveLabs formatting checks passed.
 - ✍️ Lanham score: 2/5
   - 6 sentence(s) exceed 20 words; tighten wording.
   - Passive voice detected in 2 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### dbm-performance-analysis/dbm-performance-analysis.md
-- ❌ Formatting issues:
-  - Missing 'Estimated Time:' line.
+- ✅ LiveLabs formatting checks passed.
 - ✍️ Lanham score: 2/5
   - 12 sentence(s) exceed 20 words; tighten wording.
   - Passive voice detected in 2 instance(s).
@@ -54,16 +52,14 @@ Generated on 2026-09-22T16:13:03.616216+00:00
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### opsi-optional-capabilities/opsi-optional-capabilities.md
-- ❌ Formatting issues:
-  - Missing 'Estimated Time:' line.
+- ✅ LiveLabs formatting checks passed.
 - ✍️ Lanham score: 2/5
   - 10 sentence(s) exceed 20 words; tighten wording.
   - Passive voice detected in 2 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
 ### opsi-sql-and-capacity-planning/opsi-sql-and-capacity-planning.md
-- ❌ Formatting issues:
-  - Missing 'Estimated Time:' line.
+- ✅ LiveLabs formatting checks passed.
 - ✍️ Lanham score: 2/5
   - 9 sentence(s) exceed 20 words; tighten wording.
   - Passive voice detected in 1 instance(s).

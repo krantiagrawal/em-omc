@@ -4,6 +4,8 @@
 
 Explore an optional capability using Demo Mode: Exadata Capacity Planning, SQL Explorer, ADDM Spotlight, Exadata Cost Management, or dashboards. Choose an area and record a finding or recommended action.
 
+Estimated Time: 30 minutes
+
 ### Objectives
 
 Depending on the option you choose:

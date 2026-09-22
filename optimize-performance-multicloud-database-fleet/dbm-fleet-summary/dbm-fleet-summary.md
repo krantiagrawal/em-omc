@@ -4,6 +4,8 @@
 
 Explore OCI Database Management using Demo Mode. Review fleet health, resource usage, and alarms to identify a database that needs attention.
 
+Estimated Time: 10 minutes
+
 ### Objectives
 
 - Enable Database Management Demo Mode.
@@ -52,6 +54,8 @@ Record:
 - Most important metric: `[metric]`
 
 **Checkpoint:** Explain why the selected database is a better investigation target than a database with no visible signal.
+
+You may now **proceed to the next lab**.
 
 ## Acknowledgements
 

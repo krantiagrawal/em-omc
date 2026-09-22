@@ -4,6 +4,8 @@
 
 Use Ops Insights Demo Mode to analyze SQL performance across databases and forecast resource demand. Identify SQL performance patterns and capacity risks that warrant further action.
 
+Estimated Time: 20 minutes
+
 ### Objectives
 
 - Enable Ops Insights Demo Mode.
@@ -95,6 +97,8 @@ Record:
 - Recommended response: `[action]`
 
 **Checkpoint:** Connect the database-level evidence from DBM to the fleet-level decision in OPSI.
+
+You may now **proceed to the next lab**.
 
 ## Acknowledgements
 

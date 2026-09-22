@@ -4,6 +4,8 @@
 
 Investigate a sample database using current and historical performance data. Use database metrics, SQL execution details, and recommendations to identify likely performance issues.
 
+Estimated Time: 30 minutes
+
 ### Objectives
 
 - Review database availability, activity, and resource usage.
@@ -115,6 +117,8 @@ Record:
 - Updated diagnosis: `[diagnosis]`
 
 **Checkpoint:** Identify one historical finding or recommendation that adds context to the current database signal.
+
+You may now **proceed to the next lab**.
 
 ## Acknowledgements
 
