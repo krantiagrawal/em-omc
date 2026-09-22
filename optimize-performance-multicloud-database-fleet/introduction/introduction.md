@@ -26,4 +26,5 @@ In this lab, you will:
 
 ## Acknowledgements
 
-<!-- The source content is preserved in the full tutorial that follows this Introduction page. -->
+- **Author** - Derik Harlow
+- **Contributors** - Sriram Vrinda, Derik Harlow, Kranti Agrawal, Shaickmohamed Sirajudeen

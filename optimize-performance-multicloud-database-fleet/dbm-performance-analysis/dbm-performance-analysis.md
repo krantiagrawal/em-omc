@@ -1,5 +1,21 @@
 # Module 2 – OCI Database Management Service
 
+## Introduction
+
+Investigate a sample database using current and historical performance data. Use database metrics, SQL execution details, and recommendations to identify likely performance issues.
+
+### Objectives
+
+- Review database availability, activity, and resource usage.
+- Investigate workload and SQL execution using Performance Hub and SQL Monitoring.
+- Explore historical trends with AWR Explorer.
+- Review ADDM Spotlight findings and recommendations to refine your diagnosis.
+
+### Prerequisites
+
+- An OCI account with access to Database Management.
+- Database Management Demo Mode enabled through **Database Management → Overview**.
+
 ## Task 3: Investigate the Managed Database
 
 From Fleet Summary, you can drill down into an individual database resource to investigate performance, configuration, and overall health. The resource view provides current performance information together with access to real-time and historical analysis tools.
@@ -99,3 +115,8 @@ Record:
 - Updated diagnosis: `[diagnosis]`
 
 **Checkpoint:** Identify one historical finding or recommendation that adds context to the current database signal.
+
+## Acknowledgements
+
+- **Author** - Derik Harlow
+- **Contributors** - Sriram Vrinda, Derik Harlow, Kranti Agrawal, Shaickmohamed Sirajudeen

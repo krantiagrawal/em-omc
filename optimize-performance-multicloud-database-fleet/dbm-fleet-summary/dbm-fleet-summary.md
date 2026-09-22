@@ -1,5 +1,20 @@
 # Module 1 – OCI Database Management Service
 
+## Introduction
+
+Explore OCI Database Management using Demo Mode. Review fleet health, resource usage, and alarms to identify a database that needs attention.
+
+### Objectives
+
+- Enable Database Management Demo Mode.
+- Review database inventory, monitoring status, resource usage, and alarms.
+- Use fleet metrics and the performance treemap to select a database for investigation.
+
+### Prerequisites
+
+- An OCI account and access to the OCI Console.
+- Access to Database Management and permission to enable Demo Mode.
+
 ## Task 1: Enable Demo Mode
 
 Demo Mode allows you to explore Database Management and Ops Insights features using sample data without requiring managed database resources or a live workload.
@@ -37,3 +52,8 @@ Record:
 - Most important metric: `[metric]`
 
 **Checkpoint:** Explain why the selected database is a better investigation target than a database with no visible signal.
+
+## Acknowledgements
+
+- **Author** - Derik Harlow
+- **Contributors** - Sriram Vrinda, Derik Harlow, Kranti Agrawal, Shaickmohamed Sirajudeen

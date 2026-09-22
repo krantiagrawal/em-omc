@@ -1,5 +1,25 @@
 # Module 4 – Ops Insights Service
 
+## Introduction
+
+Explore an optional capability using Demo Mode: Exadata Capacity Planning, SQL Explorer, ADDM Spotlight, Exadata Cost Management, or dashboards. Choose an area and record a finding or recommended action.
+
+### Objectives
+
+Depending on the option you choose:
+
+- Identify Exadata capacity risks or unused resources.
+- Create a fleet SQL visualization with SQL Explorer.
+- Prioritize performance findings using ADDM Spotlight.
+- Explore Exadata resource usage and cost allocation.
+- Use dashboards to drill into database and SQL performance.
+
+### Prerequisites
+
+- An OCI account with access to Ops Insights.
+- Ops Insights Demo Mode enabled through **Ops Insights → Overview**.
+- Database Management Demo Mode enabled if you choose to explore Database Management dashboards.
+
 ## Task 9: Explore an Optional Service Capabilities
 
 Choose one module for the 90-minute event version. The remaining modules can be completed in a self-paced session.
@@ -144,3 +164,8 @@ Demo Mode data is curated and can change over time. Follow the evidence in the c
 - If dashboard names or drill-down counts differ, use the closest populated out-of-the-box SQL Insights dashboard.
 
 Do not use a fabricated target, finding, metric, SQL ID, or forecast value.
+
+## Acknowledgements
+
+- **Author** - Derik Harlow
+- **Contributors** - Sriram Vrinda, Derik Harlow, Kranti Agrawal, Shaickmohamed Sirajudeen

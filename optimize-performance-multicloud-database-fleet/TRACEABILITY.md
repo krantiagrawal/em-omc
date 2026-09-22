@@ -13,6 +13,9 @@ Estimated Time: 90 minutes
 
 ## Embedded Asset Provenance
 
+- Shared Get Started and Need Help pages are linked from Oracle's LiveLabs common CDN, following the existing Database Management Demo Mode workshops. Desktop and tenancy use the cloud-login and Free Tier help pages; sandbox uses the LiveLabs login and help pages.
+- These Oracle-owned shared pages and their embedded assets are referenced remotely without copying or modifying them. Existing lab text and screenshots are unchanged.
+
 - The source HTML references Oracle Confluence attachments and Oracle-owned `oracle-livelabs` GitHub images.
 - The local output contains 43 image files copied from the supplied attachment folder. No new images were generated and no visual content was edited.
 - The local output now contains 41 additional branch screenshots for the five optional modules in Task 9. No screenshot pixels were edited.
@@ -31,7 +34,7 @@ Estimated Time: 90 minutes
 - The HTML body was converted to Markdown without editorial rewriting.
 - Image references were converted to local Markdown image references with meaningful alt text where the source omitted alt text.
 - Optional-task screenshots from the requested branch were inserted as image references only; existing task wording and sections were not rewritten.
-- The required LiveLabs `## Acknowledgements` section remains on the Introduction page; task files contain the task-specific explanatory text and steps without repeated workshop boilerplate.
+- The Introduction and all four labs include the exact author and contributor acknowledgements supplied by the workshop author. Each lab also includes the approved Introduction, Objectives, and Prerequisites sections. Estimated workshop time remains on the Introduction page.
 
 ## Acknowledgements
 

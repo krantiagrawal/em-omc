@@ -1,5 +1,21 @@
 # Module 3 – Ops Insights Service
 
+## Introduction
+
+Use Ops Insights Demo Mode to analyze SQL performance across databases and forecast resource demand. Identify SQL performance patterns and capacity risks that warrant further action.
+
+### Objectives
+
+- Enable Ops Insights Demo Mode.
+- Identify SQL degradation, plan changes, and resource-intensive statements across the fleet.
+- Compare database resource allocation, utilization, and growth.
+- Review capacity forecasts and recommend a next action.
+
+### Prerequisites
+
+- An OCI account and access to the OCI Console.
+- Access to Ops Insights and permission to enable Demo Mode.
+
 ## Task 6: Enable Demo Mode
 
 Enable demo mode for Ops Insights.
@@ -79,3 +95,8 @@ Record:
 - Recommended response: `[action]`
 
 **Checkpoint:** Connect the database-level evidence from DBM to the fleet-level decision in OPSI.
+
+## Acknowledgements
+
+- **Author** - Derik Harlow
+- **Contributors** - Sriram Vrinda, Derik Harlow, Kranti Agrawal, Shaickmohamed Sirajudeen
