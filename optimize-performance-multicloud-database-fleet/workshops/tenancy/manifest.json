@@ -12,25 +12,25 @@
             "title": "Module 1 – OCI Database Management Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../module-1/module-1.md"
+            "filename": "../../dbm-fleet-summary/dbm-fleet-summary.md"
         },
         {
             "title": "Module 2 – OCI Database Management Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../module-2/module-2.md"
+            "filename": "../../dbm-performance-analysis/dbm-performance-analysis.md"
         },
         {
             "title": "Module 3 – Ops Insights Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../module-3/module-3.md"
+            "filename": "../../opsi-sql-and-capacity-planning/opsi-sql-and-capacity-planning.md"
         },
         {
             "title": "Module 4 – Ops Insights Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../module-4/module-4.md"
+            "filename": "../../opsi-optional-capabilities/opsi-optional-capabilities.md"
         },
         {
             "title": "Need Help?",

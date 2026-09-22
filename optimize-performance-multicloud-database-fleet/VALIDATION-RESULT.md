@@ -38,7 +38,7 @@ Generated on 2026-09-22T11:04:24.835531+00:00
   - Passive voice detected in 1 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### module-1/module-1.md
+### dbm-fleet-summary/dbm-fleet-summary.md
 - ❌ Formatting issues:
   - Missing '## Acknowledgements' section.
   - Labs with tasks must include a '## Introduction' section.
@@ -49,7 +49,7 @@ Generated on 2026-09-22T11:04:24.835531+00:00
   - Passive voice detected in 2 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### module-2/module-2.md
+### dbm-performance-analysis/dbm-performance-analysis.md
 - ❌ Formatting issues:
   - Missing '## Acknowledgements' section.
   - Labs with tasks must include a '## Introduction' section.
@@ -60,7 +60,7 @@ Generated on 2026-09-22T11:04:24.835531+00:00
   - Passive voice detected in 2 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### module-3/module-3.md
+### opsi-sql-and-capacity-planning/opsi-sql-and-capacity-planning.md
 - ❌ Formatting issues:
   - Missing '## Acknowledgements' section.
   - Labs with tasks must include a '## Introduction' section.
@@ -71,7 +71,7 @@ Generated on 2026-09-22T11:04:24.835531+00:00
   - Passive voice detected in 1 instance(s).
   - Heavy nominalization usage; prefer vivid verbs.
 
-### module-4/module-4.md
+### opsi-optional-capabilities/opsi-optional-capabilities.md
 - ❌ Formatting issues:
   - Missing '## Acknowledgements' section.
   - Labs with tasks must include a '## Introduction' section.
