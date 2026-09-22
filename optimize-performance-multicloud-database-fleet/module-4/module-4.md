@@ -1,4 +1,6 @@
-# Task 9: Explore an Optional Service Capabilities
+# Module 4 – Ops Insights Service
+
+## Task 9: Explore an Optional Service Capabilities
 
 Choose one module for the 90-minute event version. The remaining modules can be completed in a self-paced session.
 
@@ -129,7 +131,7 @@ Out-of-the-box dashboards shorten the path from a fleet-level signal to database
 
 **Module output:** Explain how a saved dashboard shortens the path from a fleet signal to database and SQL investigation.
 
-## If your data does not match the example
+### If your data does not match the example
 
 Demo Mode data is curated and can change over time. Follow the evidence in the current environment rather than waiting for a fixed value or exact count.
 

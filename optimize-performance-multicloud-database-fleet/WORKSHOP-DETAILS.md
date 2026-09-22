@@ -14,15 +14,28 @@ You will begin with a managed database signal, investigate the current workload,
 
 ## Workshop Outline
 
-1. Task 1: Enable Demo Mode
-2. Task 2: Explore DBM Fleet Summary
-3. Task 3: Investigate the Managed Database
-4. Task 4: Explore Performance Hub and SQL Monitoring
-5. Task 5: Explore AWR Explorer and ADDM Spotlight
-6. Task 6: Enable Demo Mode
-7. Task 7: Analyze SQL Performance Across the Fleet
-8. Task 8: Forecast Database Capacity
-9. Task 9: Explore an Optional Service Capabilities
+Each module is independent and can be executed in any order.
+
+### Module 1 – OCI Database Management Service
+
+- Task 1: Enable Demo Mode
+- Task 2: Explore DBM Fleet Summary
+
+### Module 2 – OCI Database Management Service
+
+- Task 3: Investigate the Managed Database
+- Task 4: Explore Performance Hub and SQL Monitoring
+- Task 5: Explore AWR Explorer and ADDM Spotlight
+
+### Module 3 – Ops Insights Service
+
+- Task 6: Enable Demo Mode
+- Task 7: Analyze SQL Performance Across the Fleet
+- Task 8: Forecast Database Capacity
+
+### Module 4 – Ops Insights Service
+
+- Task 9: Explore an Optional Service Capabilities
 
 ## Workshop Prerequisites
 

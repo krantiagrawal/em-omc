@@ -9,58 +9,28 @@
             "filename": "../../introduction/introduction.md"
         },
         {
-            "title": "Task 1: Enable Demo Mode",
+            "title": "Module 1 – OCI Database Management Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../enable-demo-mode/enable-demo-mode.md"
+            "filename": "../../module-1/module-1.md"
         },
         {
-            "title": "Task 2: Explore DBM Fleet Summary",
+            "title": "Module 2 – OCI Database Management Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../explore-dbm-fleet-summary/explore-dbm-fleet-summary.md"
+            "filename": "../../module-2/module-2.md"
         },
         {
-            "title": "Task 3: Investigate the Managed Database",
+            "title": "Module 3 – Ops Insights Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../investigate-managed-database/investigate-managed-database.md"
+            "filename": "../../module-3/module-3.md"
         },
         {
-            "title": "Task 4: Explore Performance Hub and SQL Monitoring",
+            "title": "Module 4 – Ops Insights Service",
             "description": "",
             "type": "livelabs",
-            "filename": "../../explore-performance-hub-sql-monitoring/explore-performance-hub-sql-monitoring.md"
-        },
-        {
-            "title": "Task 5: Explore AWR Explorer and ADDM Spotlight",
-            "description": "",
-            "type": "livelabs",
-            "filename": "../../explore-awr-explorer-addm-spotlight/explore-awr-explorer-addm-spotlight.md"
-        },
-        {
-            "title": "Task 6: Enable Ops Insights Demo Mode",
-            "description": "",
-            "type": "livelabs",
-            "filename": "../../enable-ops-insights-demo-mode/enable-ops-insights-demo-mode.md"
-        },
-        {
-            "title": "Task 7: Analyze SQL Performance Across the Fleet",
-            "description": "",
-            "type": "livelabs",
-            "filename": "../../analyze-sql-performance-across-fleet/analyze-sql-performance-across-fleet.md"
-        },
-        {
-            "title": "Task 8: Forecast Database Capacity",
-            "description": "",
-            "type": "livelabs",
-            "filename": "../../forecast-database-capacity/forecast-database-capacity.md"
-        },
-        {
-            "title": "Task 9: Explore an Optional Service Capabilities",
-            "description": "",
-            "type": "livelabs",
-            "filename": "../../explore-optional-service-capabilities/explore-optional-service-capabilities.md"
+            "filename": "../../module-4/module-4.md"
         },
         {
             "title": "Need Help?",
