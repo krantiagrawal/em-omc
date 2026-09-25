@@ -48,7 +48,7 @@ SQL Insights provides fleet analysis, an activity loadmap, database analysis, an
     ![Left Pane](images/sql-id-sql-insights.png)
 6. Review average latency, execution frequency, daily database time, I/O, plans, and resource usage.
 
-If time permits, open **SQL Insights → SQL Explorer**:
+    If time permits, open **SQL Insights → SQL Explorer**:
 
 1. In basic mode, run a validated workshop query that aggregates a resource such as CPU time by database and SQL ID, sorts by descending resource use, and limits the result set.
 2. Display the result as a stacked bar chart using database name, SQL ID, and the selected aggregate metric.

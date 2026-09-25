@@ -57,7 +57,7 @@ Exadata Insights extends capacity planning from individual databases to Exadata 
     ![Left Pane](images/exadata-storage-server1-ocw.png)
     ![Left Pane](images/exadata-storage-server2.png)
 
-**Module output:** Identify one Exadata host, VM cluster, database, or storage resource that is over-utilized, growing, forecasted to constrain demand, or under-used.
+    **Module output:** Identify one Exadata host, VM cluster, database, or storage resource that is over-utilized, growing, forecasted to constrain demand, or under-used.
 
 ### Option B: SQL Explorer
 
@@ -84,7 +84,7 @@ Use SQL Explorer to create a focused fleet visualization and understand how quer
     ![Branch SQL Explorer view queries](images/branch-view-queries.png)
     ![Branch SQL Explorer column details](images/branch-sql-column-details.png)
 
-**Module output:** Produce one fleet SQL visualization and explain the query dimensions used.
+    **Module output:** Produce one fleet SQL visualization and explain the query dimensions used.
 
 ### Option C: ADDM Spotlight
 
@@ -105,7 +105,7 @@ ADDM Spotlight provides a strategic view of findings and recommendations over ti
     ![Branch ADDM database parameters](images/branch-addm-dbpars.png)
 8. Compare an impactful finding with the DBM or OPSI evidence.
 
-**Module output:** Record the highest-impact finding and the recommended next action.
+    **Module output:** Record the highest-impact finding and the recommended next action.
 
 ### Option D: Exadata Cost Management
 
@@ -130,7 +130,7 @@ Exadata Cost Management connects resource usage with actual or attributed cost. 
 7. Inspect how OCI standard or free-form tags support cost-center or line-of-business hierarchy and filtering.
     ![Branch deselected cost center](images/branch-deselect-test-vmc1.png)
 
-**Module output:** Identify a cost center or environment with a resource-usage or chargeback optimization opportunity.
+    **Module output:** Identify a cost center or environment with a resource-usage or chargeback optimization opportunity.
 
 ### Option E: Ops Insights or Database Management Dashboards
 
